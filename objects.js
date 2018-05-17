@@ -4,7 +4,6 @@ function updatePlaylist( obj, key, value){
 };
 function removeFromPlaylist(obj, key){
    delete obj.Slowdive;
-   delete Object.key;
 
 
 };
